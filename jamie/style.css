@@ -1,0 +1,61 @@
+body {
+    background-image: url(./assets/palhorse.jpg);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    text-align: center;
+ /* background-attachment: fixed; 
+    min-height: 100%;  */
+}
+
+h1 {
+    /* text-align: center; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28pt;
+    margin-top: 20px;
+}
+
+h3 {
+    margin-top:315px;
+    font-size: 32pt
+}
+
+.box {
+    height:50px;
+    width: 600px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#runButton {
+    height: 40pt;
+    width: 300px;
+    font-size: 30px ;
+    margin-top: 10pt;;
+
+}
+
+.return {
+    font-size: 26pt;
+    color: rgb(228, 248, 46);
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-shadow: 2px 2px 8px #FF0000;
+    /* border-style: solid;
+    border-width: 2px;
+    background-color: darksalmon;
+     */
+}
+
+.container{
+    /* max-height: 100%vh ;
+    object-position: 0vmax; */
+     position: fixed; 
+    top: 0; right: 0; bottom: 40px; left: 0; */
+    max-height: 600px;
+
+
+}
+html {
+   
+  }
